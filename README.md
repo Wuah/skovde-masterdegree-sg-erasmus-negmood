@@ -9,7 +9,7 @@ http://urn.kb.se/resolve?urn=urn:nbn:se:his:diva-15780
 The main goal of the game is to induce a low intensity negative mood able to promote a more "environmental-friendly behaviour"
 The idea behind this project are based on different studies, but everything started from the ones from Forgas J. 
 
-The game is developed in Unity and used both free and pad graphics assets, and that's why currently there is only the executable available.
+The game is developed in Unity and used both free and paid graphics assets, and that's why currently there is only the executable available.
 
 At least, I hope to release some parts of the code in the near future.
 
