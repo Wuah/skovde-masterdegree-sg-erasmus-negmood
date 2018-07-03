@@ -2,7 +2,7 @@
 Master Degree project in Serious Games developed during my Erasmus at university of Skovde
 
 This game has been developed for the Master Degree Thesis Project in Serious Game at University of Skovde(Sweden) during my Erasmus.
-The game is the treatment used for to achieve the research question described in my thesis:
+The game is the treatment used to achieve the research question described in my thesis:
 
 http://urn.kb.se/resolve?urn=urn:nbn:se:his:diva-15780
 
