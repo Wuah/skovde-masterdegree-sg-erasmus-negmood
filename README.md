@@ -16,6 +16,6 @@ The game is tested mainly on Windows and MAC (soon i will upload the file) but i
 Players' actions are logged in a file "UserData.txt" created in the game folder when it starts
 
 You are free to use my game for any experiments or to give any suggestions :D
-Please remember to refer this page, the thesis and to send me a brief note, I'm really curios to know how the game can be applied to other similar (or not) studies.
+Please remember to refer this page, the thesis and to send me a brief note, I'm really curious to know how the game can be applied to other similar (or not) studies.
 
 Thank you
