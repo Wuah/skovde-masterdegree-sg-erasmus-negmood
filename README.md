@@ -19,9 +19,15 @@ Thank you
 
 ## Screenshoots
 ![house1](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/house1.png)
+
 ![house2](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/house2.png)
+
 ![market1](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/city1.png)
+
 ![city1](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/city3.png)
+
 ![city2](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/market1.png)
+
 ![end1](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/end1.png)
+
 ![end2](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/end2.png)
