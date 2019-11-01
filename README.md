@@ -16,18 +16,3 @@ Feel free to use my game for any experiments or to give any suggestions :D
 Please remember to refer this page, the thesis and to send me a brief note, I'm really curious to know how the game can be applied to other similar (or not) studies.
 
 Thank you
-
-## Screenshoots
-![house1](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/house1.png?raw=true)
-
-![house2](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/house2.png)
-
-![market1](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/city1.png)
-
-![city1](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/city3.png)
-
-![city2](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/market1.png)
-
-![end1](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/end1.png)
-
-![end2](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/end2.png)
