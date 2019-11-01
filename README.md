@@ -18,7 +18,7 @@ Please remember to refer this page, the thesis and to send me a brief note, I'm 
 Thank you
 
 ## Screenshoots
-![house1](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/house1.png)
+![house1](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/house1.png?raw=true)
 
 ![house2](https://github.com/simpetr/skovde-masterdegree-sg-erasmus-negmood/tree/master/Screenshots/house2.png)
 
